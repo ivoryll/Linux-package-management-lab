@@ -6,7 +6,7 @@ This project demonstrates how to use the Advanced Package Tool (APT) in Linux to
 
 ---
 
-## Objectives
+## 🎯Objectives
 
 - Verify that APT is installed
 - Install Suricata
@@ -19,7 +19,7 @@ This project demonstrates how to use the Advanced Package Tool (APT) in Linux to
 
 ---
 
-## Technologies Used
+## 🛠Technologies Used
 
 - Linux (Debian)
 - Bash Shell
@@ -30,7 +30,7 @@ This project demonstrates how to use the Advanced Package Tool (APT) in Linux to
 
 ---
 
-## Commands Used
+## 💻Commands Used
 
 ### Verify APT
 
@@ -70,7 +70,7 @@ apt list --installed
 
 ---
 
-## Skills Demonstrated
+## 🧠Skills Demonstrated
 
 - Linux Command Line (CLI)
 - Package Management
@@ -81,7 +81,7 @@ apt list --installed
 
 ---
 
-## Security Tools
+## 🛡Security Tools
 
 ### Suricata
 
@@ -93,7 +93,7 @@ tcpdump is a command-line packet analyzer used to capture and inspect network tr
 
 ---
 
-## Key Takeaways
+## 📚Key Takeaways
 
 - Learned how to use the APT package manager.
 - Installed and removed Linux applications.
